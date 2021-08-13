@@ -22,8 +22,13 @@ IOTA
 - [Pay Per Coffee: Nespresso Machine that accepts cryptocurrencies](https://www.hackster.io/l3wi/pay-per-coffee-a6e55f)
 - [IOTA expansion pack for STM32Cube](https://www.st.com/en/embedded-software/x-cube-iota1.html)
 
-### Other Awesome Lists
-- [Awesome Bitcoin Payment Processors](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme)
-- [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme)
-- [Awesome Ethereum](https://github.com/ttumiel/Awesome-Ethereum)
-- [Awesome Crypto Papers](https://github.com/pFarb/awesome-crypto-papers#readme)
+### Projects
+- [Althea: Decentralized ISP routers](https://althea.net/)
+    - [firmware](https://github.com/althea-net/althea-firmware)
+
+### Articles
+- [How blockchain can enhance trust in IoT interactions](https://www.embedded.com/how-blockchain-can-enhance-trust-in-iot-interactions/)
+
+
+### Other
+- [Hyperledger: open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain deployments](https://www.hyperledger.org/learn)
