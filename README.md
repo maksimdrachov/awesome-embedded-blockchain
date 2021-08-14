@@ -6,13 +6,17 @@
 - [Mastering Ethereum](/pdf/mastering-ethereum.pdf)
 - [A from-scratch tour of Bitcoin in Python](http://karpathy.github.io/2021/06/21/blockchain/)
 
+### Video
+- [HWallet: a simple Bitcoin hardware wallet (presentation)](https://www.youtube.com/watch?v=0sgF5klTcD8)
+
 ### Embedded
 Hardware Wallets
 - [Coldcard: opensource hardware wallet](https://coldcardwallet.com/)
     - [firmware](https://github.com/Coldcard/firmware)
 - [Trezor: Hardware wallet](https://trezor.io/)
     - [firmware](https://github.com/trezor/trezor-firmware)
-- 
+- HWallet: a simple Bitcoin hardware wallet - [firmware](https://gitlab.com/nemanjan/hwallet)
+
 - [Hardware Wallet Hack: Ledger Nano S](https://www.youtube.com/watch?v=nNBktKw9Is4&list=PLhixgUqwRTjyLgF4x-ZLVFL-CRTCrUo03)
 
 Bitcoin
@@ -28,6 +32,10 @@ IOTA
 
 ### Articles
 - [How blockchain can enhance trust in IoT interactions](https://www.embedded.com/how-blockchain-can-enhance-trust-in-iot-interactions/)
+
+### Github
+- [Micro-Bitcoin: Bitcoin library for microcontrollers](https://github.com/micro-bitcoin/uBitcoin)
+- [DIY Bitcoin Hardware](https://github.com/diybitcoinhardware/diybitcoinhardware.github.io)
 
 
 ### Other
