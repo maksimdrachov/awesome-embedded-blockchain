@@ -14,11 +14,8 @@
 Hardware Wallets
 
 - [Coldcard: opensource hardware wallet](https://coldcardwallet.com/) - [firmware](https://github.com/Coldcard/firmware)
-
 - [Trezor: Hardware wallet](https://trezor.io/) - [firmware](https://github.com/trezor/trezor-firmware)
-
 - HWallet: a simple Bitcoin hardware wallet - [firmware](https://gitlab.com/nemanjan/hwallet)
-
 - [Hardware Wallet Hack: Ledger Nano S](https://www.youtube.com/watch?v=nNBktKw9Is4&list=PLhixgUqwRTjyLgF4x-ZLVFL-CRTCrUo03)
 
 Bitcoin
