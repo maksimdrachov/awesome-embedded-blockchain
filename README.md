@@ -61,6 +61,7 @@ IOTA
 - [How blockchain can enhance trust in IoT interactions](https://www.embedded.com/how-blockchain-can-enhance-trust-in-iot-interactions/)
 
 ### Github
+- [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme)
 - [**DIY Bitcoin Hardware**](https://github.com/diybitcoinhardware/diybitcoinhardware.github.io)
 - [Micro-Bitcoin: Bitcoin library for microcontrollers](https://github.com/micro-bitcoin/uBitcoin)
 
