@@ -59,17 +59,23 @@ IOTA
 
 ### Articles
 - [How blockchain can enhance trust in IoT interactions](https://www.embedded.com/how-blockchain-can-enhance-trust-in-iot-interactions/)
+- [Blockchain and Supply Chain: The Startup Landscape](https://medium.com/anyledger/blockchain-and-supply-chain-the-startup-landscape-d82fefc7e565)
+- [Why Iot and Blockchain are a perfect match](https://medium.com/anyledger/why-iot-and-blockchain-are-a-perfect-match-4d5b6e2a1a02)
 
 ### Github
 - [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme)
 - [**DIY Bitcoin Hardware**](https://github.com/diybitcoinhardware/diybitcoinhardware.github.io)
 - [Micro-Bitcoin: Bitcoin library for microcontrollers](https://github.com/micro-bitcoin/uBitcoin)
+- [Anyl Embedded Wallet for IoT](https://github.com/Anylsite/anyl-wallet)
+    - [Sending Authenticated Data from AnyLedger Wallet](https://medium.com/anyledger/sending-authenticated-data-from-anyledger-wallet-8f890024e1dd)
+    - [Anyl with QEMU virtual machine](https://github.com/Anylsite/anyl-wallet)
+    - [AnyLedger Wallet and ERC20 Tokens](https://medium.com/anyledger/anyledger-wallet-and-erc20-tokens-ad8ab56bf04c)
 
 ### Companies
-- [Ledger](https://www.ledger.com/)
-- [Trezor](https://trezor.io/)
-- [AnyLedger](https://github.com/Anylsite): AnyLedger connects the blockchain to the physical world by building an embedded wallet for the IoT. Every device will be able to exchange value and interact with the blockchain. We are the secure open source infrastructure bridging the hardware to any kind of blockchain.
-- [Aetsoft](https://aetsoft.net/): We are a software development company helping businesses maximize their potential with business process automation and blockchain solutions.
+- [Ledger](https://www.ledger.com/): hardware wallets
+- [Trezor](https://trezor.io/): hardware wallets
+- [AnyLedger](https://github.com/Anylsite): Blockchain + IoT
+- [Aetsoft](https://aetsoft.net/): mainly blockchain
     - [RTLS](https://aetsoft.net/products/rtls/): RTLS is a module within the OLWay blockchain ecosystem, serving the specific needs of the warehousing sector. Connected to IoT tags and sensors, it tracks the location and movement of assets in your operational facility: workers, equipment, and vehicles.
     - [OLWay](https://aetsoft.net/products/olway/): We created OLWay to finally clear opacity in enterprise logistics and make the supply chain flow fast and rationalized. Through the transparency inherited in blockchain, you can track each consignment’s entire path and get updates on each stage of transportation from the connected IoT devices.
 
