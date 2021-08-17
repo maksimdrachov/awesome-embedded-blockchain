@@ -65,6 +65,13 @@ IOTA
 - [**DIY Bitcoin Hardware**](https://github.com/diybitcoinhardware/diybitcoinhardware.github.io)
 - [Micro-Bitcoin: Bitcoin library for microcontrollers](https://github.com/micro-bitcoin/uBitcoin)
 
+### Companies
+- [Ledger](https://www.ledger.com/)
+- [Trezor](https://trezor.io/)
+- [AnyLedger](https://github.com/Anylsite): AnyLedger connects the blockchain to the physical world by building an embedded wallet for the IoT. Every device will be able to exchange value and interact with the blockchain. We are the secure open source infrastructure bridging the hardware to any kind of blockchain.
+- [Aetsoft](https://aetsoft.net/): We are a software development company helping businesses maximize their potential with business process automation and blockchain solutions.
+    - [RTLS](https://aetsoft.net/products/rtls/): RTLS is a module within the OLWay blockchain ecosystem, serving the specific needs of the warehousing sector. Connected to IoT tags and sensors, it tracks the location and movement of assets in your operational facility: workers, equipment, and vehicles.
+    - [OLWay](https://aetsoft.net/products/olway/): We created OLWay to finally clear opacity in enterprise logistics and make the supply chain flow fast and rationalized. Through the transparency inherited in blockchain, you can track each consignment’s entire path and get updates on each stage of transportation from the connected IoT devices.
 
 ### Other
 - [Hyperledger: open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain deployments](https://www.hyperledger.org/learn)
