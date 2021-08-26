@@ -5,6 +5,7 @@
 - [Mastering Bitcoin](/pdf/mastering-bitcoin.pdf)
 - [Mastering Ethereum](/pdf/mastering-ethereum.pdf)
 - [A from-scratch tour of Bitcoin in Python](http://karpathy.github.io/2021/06/21/blockchain/)
+- [Programming Bitcoin](https://www.amazon.com/Programming-Bitcoin-Learn-Program-Scratch/dp/1492031496)
 
 ### Video
 - [HWallet: a simple Bitcoin hardware wallet (presentation)](https://www.youtube.com/watch?v=0sgF5klTcD8)
@@ -75,9 +76,6 @@ IOTA
 - [Ledger](https://www.ledger.com/): hardware wallets
 - [Trezor](https://trezor.io/): hardware wallets
 - [AnyLedger](https://github.com/Anylsite): Blockchain + IoT
-- [Aetsoft](https://aetsoft.net/): mainly blockchain
-    - [RTLS](https://aetsoft.net/products/rtls/): RTLS is a module within the OLWay blockchain ecosystem, serving the specific needs of the warehousing sector. Connected to IoT tags and sensors, it tracks the location and movement of assets in your operational facility: workers, equipment, and vehicles.
-    - [OLWay](https://aetsoft.net/products/olway/): We created OLWay to finally clear opacity in enterprise logistics and make the supply chain flow fast and rationalized. Through the transparency inherited in blockchain, you can track each consignment’s entire path and get updates on each stage of transportation from the connected IoT devices.
 
 ### Other
 - [Hyperledger: open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain deployments](https://www.hyperledger.org/learn)
