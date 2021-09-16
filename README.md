@@ -4,8 +4,8 @@
 - [Bitcoin Whitepaper](/pdf/bitcoin.pdf)
 - [Mastering Bitcoin](/pdf/mastering-bitcoin.pdf)
 - [Mastering Ethereum](/pdf/mastering-ethereum.pdf)
-- [A from-scratch tour of Bitcoin in Python](http://karpathy.github.io/2021/06/21/blockchain/)
 - [Programming Bitcoin](https://www.amazon.com/Programming-Bitcoin-Learn-Program-Scratch/dp/1492031496)
+- [A from-scratch tour of Bitcoin in Python](http://karpathy.github.io/2021/06/21/blockchain/)
 
 ### Video
 - [HWallet: a simple Bitcoin hardware wallet (presentation)](https://www.youtube.com/watch?v=0sgF5klTcD8)
@@ -76,6 +76,9 @@ IOTA
 - [Ledger](https://www.ledger.com/): hardware wallets
 - [Trezor](https://trezor.io/): hardware wallets
 - [AnyLedger](https://github.com/Anylsite): Blockchain + IoT
+- [Stacks](https://www.stacks.co/): Bitcoin dapps and smart contracts
+- [Bitfury](https://bitfury.com/): security and infrastructure 
 
 ### Other
 - [Hyperledger: open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain deployments](https://www.hyperledger.org/learn)
+- [Get started with Stacks](https://www.stacks.co/developers)
