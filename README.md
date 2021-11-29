@@ -17,6 +17,7 @@ Hardware Wallets
 - [Coldcard: opensource hardware wallet](https://coldcardwallet.com/) - [firmware](https://github.com/Coldcard/firmware)
 - [Trezor: Hardware wallet](https://trezor.io/) - [firmware](https://github.com/trezor/trezor-firmware)
 - [Hardware Wallet Hack: Ledger Nano S](https://www.youtube.com/watch?v=nNBktKw9Is4&list=PLhixgUqwRTjyLgF4x-ZLVFL-CRTCrUo03)
+- [HCPP2021-Badge](https://github.com/taxmeifyoucan/HCPP2021-Badge): Lighting payments with NFC cards
 
 DIY Hardware Wallets
 
